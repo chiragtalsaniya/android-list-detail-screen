@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CARFAX Assignment</string>
+
+    <string name="label_location">Location</string>
+    <string name="label_exterior_color">Exterior Color</string>
+    <string name="label_interior_color">Interior Color</string>
+    <string name="label_drive_type">Drive Type</string>
+    <string name="label_transmission">Transmission</string>
+    <string name="label_body_style">Body Style</string>
+    <string name="label_engine">Engine</string>
+
+    <!-- Optional helpers -->
+    <string name="value_not_available">—</string>
+    <string name="vehicle_info">Vehicle Info</string>
+    <string name="details_title">Details</string>
+    <string name="retry">Retry</string>
+    <string name="details">Details</string>
+    <string name="carfax">CARFAX</string>
+    <string name="call_dealer">CALL DEALER</string>
+    <string name="confirm_call_title">Call dealer?</string>
+    <string name="confirm_call_message">Do you want to call this dealer at %1$s?</string>
+    <string name="call_action">Call</string>
+    <string name="cancel_action">Cancel</string>
+</resources>
