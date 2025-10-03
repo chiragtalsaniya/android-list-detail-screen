@@ -1,8 +1,6 @@
-# CARFAX Android Technical Assignment - Chirag Talsaniya
+# Android Assignment - Chirag Talsaniya
 
-An Android app that fetches and displays **used car listings** from the CARFAX endpoint and supports **offline caching**. Built with **Kotlin**, **MVVM + Clean Architecture**, **Koin DI**, **Jetpack Compose + Navigation**, and demonstrates **both Coroutines and RxJava** for async work.
-
-**API**: `https://carfax-for-consumers.firebaseio.com/assignment.json`
+An Android app that fetches and displays **used car listings** from the  endpoint and supports **offline caching**. Built with **Kotlin**, **MVVM + Clean Architecture**, **Koin DI**, **Jetpack Compose + Navigation**, and demonstrates **both Coroutines and RxJava** for async work.
 
 ---
 ## Screens
@@ -120,7 +118,6 @@ Unit and instrumentation tests validate the app from DTO mapping up to ViewModel
 ## Submission
 
 1. Push the repo to **a private GitHub repository**.
-2. Add **carfax.assignments@gmail.com** (username **`carfaxAndroid`**) with **read access**.
 3. Include this **README.md** at the root.
 
 
