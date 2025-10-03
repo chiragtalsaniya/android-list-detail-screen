@@ -1,4 +1,4 @@
-# Android Assignment - Chirag Talsaniya
+# Android List Detail App - Chirag Talsaniya
 
 An Android app that fetches and displays **used car listings** from the  endpoint and supports **offline caching**. Built with **Kotlin**, **MVVM + Clean Architecture**, **Koin DI**, **Jetpack Compose + Navigation**, and demonstrates **both Coroutines and RxJava** for async work.
 
